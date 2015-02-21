@@ -1,0 +1,5 @@
+C:\Users\Murat SAYICI\Desktop\projeler\fibonaccirecursive\fibonaccirecursive\bin\Debug\fibonaccirecursive.exe.config
+C:\Users\Murat SAYICI\Desktop\projeler\fibonaccirecursive\fibonaccirecursive\bin\Debug\fibonaccirecursive.exe
+C:\Users\Murat SAYICI\Desktop\projeler\fibonaccirecursive\fibonaccirecursive\bin\Debug\fibonaccirecursive.pdb
+C:\Users\Murat SAYICI\Desktop\projeler\fibonaccirecursive\fibonaccirecursive\obj\Debug\fibonaccirecursive.exe
+C:\Users\Murat SAYICI\Desktop\projeler\fibonaccirecursive\fibonaccirecursive\obj\Debug\fibonaccirecursive.pdb
